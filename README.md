@@ -49,7 +49,10 @@ After starting the app, head to `http://localhost:8000/` to interact with the AP
 
 Here are some examples of API requests:
 
-<img width="1440" alt="Ekran Resmi 2023-10-27 07 56 53" src="/backend/imgs/api-1.png">
+<img width="1470" alt="api-1" src="https://github.com/Alimddar/CommerceCore/assets/110345150/79ee82a9-4551-45d2-95ab-5813d57550f1">
+<img width="1470" alt="api-2" src="https://github.com/Alimddar/CommerceCore/assets/110345150/af50c1b6-8056-4e9f-aee6-8adcf4e80b39">
+<img width="1470" alt="api-3" src="https://github.com/Alimddar/CommerceCore/assets/110345150/151a491e-93b8-4094-8582-3044ead65ea3">
+
 
 ## Contributing 🤝
 
