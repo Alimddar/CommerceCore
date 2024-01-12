@@ -49,14 +49,7 @@ After starting the app, head to `http://localhost:8000/` to interact with the AP
 
 Here are some examples of API requests:
 
-![Create Product](/backend/imgs/api-1.png)
-*Creating a new product*
-
-![Fetch Users](/backend/imgs/api-2.png)
-*Fetching user data*
-
-![Add Comment](/backend/imgs/api-3.png)
-*Adding a comment to a product*
+<img width="1440" alt="Ekran Resmi 2023-10-27 07 56 53" src="/backend/imgs/api-1.png">
 
 ## Contributing 🤝
 
