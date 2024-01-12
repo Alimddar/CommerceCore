@@ -1,0 +1,4 @@
+@nestjs/swagger
+@nestjs/typeorm typeorm mysql2
+@nestjs/jwt
+@nestjs/config
