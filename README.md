@@ -1,4 +1,3 @@
-```markdown
 # CommerceCore 🛍️
 
 CommerceCore is a personal e-commerce application developed using NestJS and TypeORM. It offers streamlined product, purchase, and user management, tailored for scalable online retail experiences.
@@ -50,19 +49,15 @@ After starting the app, head to `http://localhost:8000/` to interact with the AP
 
 Here are some examples of API requests:
 
-![Create Product](/Users/alimdar/Desktop/Screenshots/Screenshot 2024-01-12 at 22.49.12.png)
+![Create Product](/backend/imgs/api-1.png)
 *Creating a new product*
 
-![Fetch Users](/Users/alimdar/Desktop/Screenshots/Screenshot 2024-01-12 at 22.49.26.png)
+![Fetch Users](/backend/imgs/api-2.png)
 *Fetching user data*
 
-![Add Comment](/Users/alimdar/Desktop/Screenshots/Screenshot 2024-01-12 at 22.49.44.png)
+![Add Comment](/backend/imgs/api-3.png)
 *Adding a comment to a product*
-
-... (Add as many as needed)
 
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to submit pull requests.
-
-```
